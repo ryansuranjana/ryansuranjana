@@ -9,5 +9,10 @@
 
 <hr></hr>
 
-<a href="https://instagram.com/rsuranjana14"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<p align='center'>
+  <a href="https://instagram.com/rsuranjana14"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+</p
+
+<div align="center"
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryansuranjana&theme=radical)
+</div>
