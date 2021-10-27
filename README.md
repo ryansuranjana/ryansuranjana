@@ -8,14 +8,14 @@
 <p align='center'>
   <a href="https://instagram.com/rsuranjana14"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p
-   
-</div>
 
 <hr></hr>
+</div>
+
+
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **CPP, Flutter & WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 
-<hr></hr>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryansuranjana&theme=radical)
   
 <hr></hr>
