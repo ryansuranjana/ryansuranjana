@@ -29,7 +29,7 @@ Welcome to my profile! I'm a student at SMK Negeri 1 Denpasar
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
 
-#####Template source code : https://awesomegithubprofile.tech/
+<p align="center">Template source code : https://awesomegithubprofile.tech/</p>
 
 
 
