@@ -1,6 +1,6 @@
 # Hi I'm Ryan Suranjana 👋
 
-Welcome to my profile! I'm a student at SMK Negeri 1 Denpasar
+Welcome to my profile! I'm a fresh graduate SMK Negeri 1 Denpasar
 
 # 💫 About Me:
 🌱 I’m currently learning Laravel, and React. <br>💬 Ask me about Football, Movies, or anything.<br>⚡ Debugging is like being the detective in a crime movie where you're also the murderer.
